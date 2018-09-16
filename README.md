@@ -1,6 +1,1 @@
-# SmartBrain - v2
-Final project for Udemy course
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+An machine learning web-app that detects faces in an image.
